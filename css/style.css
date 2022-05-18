@@ -618,7 +618,7 @@ body._lock {
     left: 19px;
     width: 2px;
     background-color: #1e4391;
-    height: 120px;
+    height: 110px;
 }
 
 .instruction__step:nth-child(2)::before,
